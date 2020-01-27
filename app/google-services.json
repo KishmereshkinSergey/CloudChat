@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848449772965",
+    "firebase_url": "https://cloudchat-df720.firebaseio.com",
+    "project_id": "cloudchat-df720",
+    "storage_bucket": "cloudchat-df720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848449772965:android:1e7859bdb865eb998d1c4c",
+        "android_client_info": {
+          "package_name": "com.example.cloudchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848449772965-pma0hjd5sjem8t0469k5hius1ddb0nfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cloudchat",
+            "certificate_hash": "b24c482d481667b70cd5ae4871a9f398f1f89ae0"
+          }
+        },
+        {
+          "client_id": "848449772965-bb826frbg9j4jnqlh9tp9o4jrcvdc8jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbN33QtUNP0JS6PUfhrMnK6GW6ARahLcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848449772965-bb826frbg9j4jnqlh9tp9o4jrcvdc8jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
